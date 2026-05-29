@@ -204,7 +204,7 @@ const projects = [
 
           <div className="flex flex-wrap gap-5">
 
-            <a href="https://github.com/repos">
+            <a href="https://github.com/Itzshambhav?tab=repositories">
 
               <button className="bg-cyan-400 text-black px-8 py-4 rounded-2xl font-bold hover:bg-cyan-300 hover:scale-105 transition-all duration-300 shadow-lg shadow-cyan-500/30">
 
